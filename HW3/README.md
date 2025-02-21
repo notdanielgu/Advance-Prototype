@@ -30,8 +30,19 @@ Long press for three seconds to enter yellow
 ```
 Tap to turn on the lights
 ```
-
+        elif press_count == 1 and mode == "OFF_MODE":  
+            mode = "BLUE_FLOW"
 ```
+
+
+
+
+
+
+
+
+
+
 
 
 
