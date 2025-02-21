@@ -2,3 +2,11 @@
 
 ### Introduction
 My idea was to use wait to create a charged animation, I wanted to make the lights dynamic, not just the difference between being on or off. So I created this piece
+![Sketch](Sketch.jpg)  
+
+### State Diagram
+1. When the button is pressed, the light is lit from No. 1 to No. 30, and the blue light speed is getting faster and faster.
+2. When the ADC value is detected, the light will change the amount of power of the light with the size of the ADC value, the larger the value, the more lights are lit
+3. When the button is long pressed, the light changes from blue to yellow.
+4. when the button is short pressed twice, all lights go out
+![State Diagram](State-Diagram.png)  
