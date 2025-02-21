@@ -17,3 +17,9 @@ My idea was to use wait to create a charged animation, I wanted to make the ligh
 * __analog__- helpsuser to control the brightness of the strip.
 
 ### Firmware
+Controls the speed at which the light turns on
+```
+start_delay = 80  
+end_delay = 20    
+delay_decrement = (start_delay - end_delay) / 30 
+```
