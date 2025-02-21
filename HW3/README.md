@@ -9,7 +9,7 @@ My idea was to use wait to create a charged animation, I wanted to make the ligh
 2. When the ADC value is detected, the light will change the amount of power of the light with the size of the ADC value, the larger the value, the more lights are lit
 3. When the button is long pressed, the light changes from blue to yellow.
 4. when the button is short pressed twice, all lights go out
-![State Diagram]()  
+
 
 ### Hardware
 * __Light Strip__ - plays the main role as a reflection of the output results
