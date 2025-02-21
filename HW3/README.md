@@ -47,7 +47,16 @@ How blue light will be charge
 ```
 How blue light can be control
 ```
+ elif mode == "ADC_MODE":  
+        analog_val = adc.read() 
+        num_lights = int((analog_val / 4095) * 30) 
 
+        for i in range(30):
+            if i < num_lights:
+                np7[i] = (0, 0, 255)  
+            else:
+                np7[i] = (0, 0, 0) 
+        np7.write()
 ```
 How yellow light will be show
 ```
@@ -57,8 +66,11 @@ elif mode == "YELLOW_MODE":
         np7.write()
 ```
 
+### Physical Components   
+I was using different materials to make some cardboard boxes, using their translucency to help me to finish the material of the lampshade
 
-
+### Project outcome  
+It works perfectly!
 
 
 
