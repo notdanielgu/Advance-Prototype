@@ -23,3 +23,23 @@ start_delay = 80
 end_delay = 20    
 delay_decrement = (start_delay - end_delay) / 30 
 ```
+Long press for three seconds to enter yellow
+```
+ if elapsed_time >= hold_threshold: 
+            mode = "YELLOW_MODE
+```
+Tap to turn on the lights
+```
+
+```
+
+
+
+
+
+
+
+
+
+
+
