@@ -10,3 +10,10 @@ My idea was to use wait to create a charged animation, I wanted to make the ligh
 3. When the button is long pressed, the light changes from blue to yellow.
 4. when the button is short pressed twice, all lights go out
 ![State Diagram](State-Diagram.png)  
+
+### Hardware
+* __Light Strip__ - plays the main role as a reflection of the output results
+* __Pushbuttons__- help users to control the light strip switch and switch the color of the light
+* __analog__- helpsuser to control the brightness of the strip.
+
+### Firmware
