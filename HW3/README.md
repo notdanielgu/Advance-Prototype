@@ -45,9 +45,16 @@ How blue light will be charge
 
         mode = "ADC_MODE"  
 ```
-How yellow light will be show
+How blue light can be control
 ```
 
+```
+How yellow light will be show
+```
+elif mode == "YELLOW_MODE":  
+        for i in range(30):
+            np7[i] = (255, 255, 0)  
+        np7.write()
 ```
 
 
