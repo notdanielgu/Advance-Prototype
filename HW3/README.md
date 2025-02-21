@@ -33,11 +33,22 @@ Tap to turn on the lights
         elif press_count == 1 and mode == "OFF_MODE":  
             mode = "BLUE_FLOW"
 ```
+How blue light will be charge
+```
+ if mode == "BLUE_FLOW":  
+        delay = start_delay  
+        for i in range(30):
+            np7[i] = (0, 0, 255)  
+            np7.write()
+            sleep_ms(int(delay))
+            delay = max(delay - delay_decrement, end_delay)  
 
+        mode = "ADC_MODE"  
+```
+How yellow light will be show
+```
 
-
-
-
+```
 
 
 
