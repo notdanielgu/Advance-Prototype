@@ -71,7 +71,8 @@ I was using different materials to make some cardboard boxes, using their transl
 
 ### Project outcome  
 It works perfectly!
-
+![BlueMode](BlueMode.jpg)  
+![YellowMode](YellowMode.jpg)  
 
 
 
