@@ -73,11 +73,15 @@ I was using different materials to make some cardboard boxes, using their transl
 It works perfectly!
 ![BlueMode](BlueMode.jpg)  
 ![YellowMode](YellowMode.jpg)  
+And here is the updated version. I make it stand up.
+![BlueModev2](BlueModeV2.jpeg)  
 
 And Here is the Veido!
 ```
 https://youtu.be/rMKaAiAQD24
+https://youtu.be/Kb3LFGxcKEk
 ```
+
 
 
 
