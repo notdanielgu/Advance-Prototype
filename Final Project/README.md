@@ -5,5 +5,7 @@ The original idea for my project was to create an interactive steering wheel ite
 
 I'm hoping this steering wheel will give some track beginners the courage to hit the track and help them become better acquainted with this car in their hands!
 
+![Sketch](final concept sketches.jpg)  
+
 ## Implementation  
 
