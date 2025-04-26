@@ -216,9 +216,13 @@ Similarly, the server is also given a touch area to output different information
             count_last = count
 ```
 
+### Software
+Here's the contents of the dashboard I designed in figma
+![Sketch](Comfort-mode.png) 
+![Sketch](Frame-167.png) 
+![Sketch](Sport-mode.png) 
 
-
-
+### Integrations
 
 
 
