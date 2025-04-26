@@ -229,6 +229,8 @@ I'm using protopie connect to connect the script to protopie, and I'm exporting 
 
 
 ### Mechanical Design
+I designed and modeled my steering wheel in c4d and left each unit in it
+![Sketch](modeling.png) 
 
 
 
