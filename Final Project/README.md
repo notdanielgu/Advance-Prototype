@@ -9,3 +9,5 @@ I'm hoping this steering wheel will give some track beginners the courage to hit
 
 ## Implementation  
 
+### State Diagram
+![Sketch](State-Diagram.jpg)  
