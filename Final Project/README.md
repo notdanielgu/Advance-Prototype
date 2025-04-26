@@ -223,10 +223,12 @@ Here's the contents of the dashboard I designed in figma
 ![Sketch](Sport-mode.png) 
 
 ### Integrations
+I'm using protopie connect to connect the script to protopie, and I'm exporting each component as a separate pie file, so that I can free up space where I can control the spline page.
+![Sketch](connect.png) 
+![Sketch](web.png) 
 
 
-
-
+### Mechanical Design
 
 
 
