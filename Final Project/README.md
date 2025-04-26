@@ -232,9 +232,16 @@ I'm using protopie connect to connect the script to protopie, and I'm exporting 
 I designed and modeled my steering wheel in c4d and left each unit in it
 ![Sketch](modeling.png) 
 
+After using 3d printing I used a hand drill to drill out the location for the wires
+![Sketch](process.png) 
 
+### Project outcome
+```
+https://youtu.be/vPw9VpE4a6g
+```
 
-
+### Conclusion
+This is my first attempt at designing a steering wheel as well as my first attempt at applying hardware interactions to my ui work, I feel like I still don't have enough experience with lining things up, and if I had the time I'd like to be able to refine my steering wheel even more, paint the wheel, or make it look put together even better, and I think I've already done a pretty good job with my script as well as my ui.
 
 
 
