@@ -11,3 +11,16 @@ I'm hoping this steering wheel will give some track beginners the courage to hit
 
 ### State Diagram
 ![Sketch](State-Diagram.jpg)  
+
+### Hardware
+- [M5Stack Core2](https://shop.m5stack.com/products/m5stack-core2-esp32-iot-development-kit-for-aws-iot-edukit). This one is the main core, and its function is to connect the computer to other components, and to display some basic UI on the steering wheel, providing a connection to the dashboard.
+
+- [Button Unit](https://shop.m5stack.com/products/mechanical-key-button-unit).This is used as the car's starter button
+
+- [Button Unit](https://shop.m5stack.com/products/encoder-unit). This is used to check how much the steering wheel has actually turned
+
+- [Vibration Unit](https://shop.m5stack.com/products/vibration-motor-unit). This is used to alert the user to enter track mode and to give him/her a turn alert.
+
+- [Angle Unit](https://shop.m5stack.com/products/angle-unit). This is used to switch modes
+
+- 
