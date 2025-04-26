@@ -23,4 +23,5 @@ I'm hoping this steering wheel will give some track beginners the courage to hit
 
 - [Angle Unit](https://shop.m5stack.com/products/angle-unit). This is used to switch modes
 
-- 
+### Wire Diagram
+![Sketch](Wire-Diagram.jpg)  
