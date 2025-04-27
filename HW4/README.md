@@ -40,5 +40,18 @@ The closer you are, the faster the vibration frequency.
         vibrator.off()
 ```
 
-## Firmware
+## Physical Components
+I used the Apple watch band as the main body of my bracelet and put the unit all on top of the band.
+
+
+## Project outcome
+
+
+
+
+
+
+
+
+
 
