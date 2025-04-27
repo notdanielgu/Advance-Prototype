@@ -45,7 +45,8 @@ I used the Apple watch band as the main body of my bracelet and put the unit all
 
 
 ## Project outcome
-
+![Diagram](outcom1.jpg) 
+![Diagram](outcome2.jpg) 
 
 
 
