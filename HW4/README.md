@@ -23,7 +23,9 @@ Using a light sensor instead of a switch
         device_on = not device_on
         print("device state:", "on" if device_on else "off")
         sleep(0.5)
-、、、
+
+
+
 
 The closer you are, the faster the vibration frequency.
 、、、
@@ -31,15 +33,11 @@ The closer you are, the faster the vibration frequency.
         delay_time = max(50, int(1000 - (ir_val - 1500)))  
         print(f"gap: {delay_time} ms")
         vibrator.on()
-        sleep(delay_time / 2000)  #
+        sleep(delay_time / 2000) 
         vibrator.off()
         sleep(delay_time / 2000)
     else:
-        vibrator.off() 
-、、、
 
 
-
-
-
+## Firmware
 
