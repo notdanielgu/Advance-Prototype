@@ -8,4 +8,9 @@ I would like to make a product to assist the blind to walk, because nowadays the
 When the user touches the switch, the product starts to operate, when the IR senses an obstacle in front, it will vibrate more and more with the sensing number getting smaller and smaller, reminding the user that there is an obstacle in front, and at the same time, the LED starts to flash, reminding the people around them to beware of avoiding/helping the user to avoid obstacles.
 ![Diagram](hw4-diagram.png)  
 
-## 
+## Hardware
+light sensor: Since blind users are not very good at recognizing the buttons accurately, I replaced the buttons with light sensors so that users can control the product on/off by simply hovering their hands over the unit.
+IR sensor: Helps the user recognize the distance to obstacles ahead
+Vibration： Vibrate to alert the user to the distance of obstacles in front of them
+
+
