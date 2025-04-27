@@ -13,4 +13,33 @@ light sensor: Since blind users are not very good at recognizing the buttons acc
 IR sensor: Helps the user recognize the distance to obstacles ahead
 Vibration： Vibrate to alert the user to the distance of obstacles in front of them
 
+## Firmware
+Using a light sensor instead of a switch
+、、、
+    global device_on, light_val_last
+    light_val = light_sensor.read()
+    
+    if light_val < light_toggle_threshold and light_val_last >= light_toggle_threshold:
+        device_on = not device_on
+        print("device state:", "on" if device_on else "off")
+        sleep(0.5)
+、、、
+
+The closer you are, the faster the vibration frequency.
+、、、
+ if ir_val > 1500: 
+        delay_time = max(50, int(1000 - (ir_val - 1500)))  
+        print(f"gap: {delay_time} ms")
+        vibrator.on()
+        sleep(delay_time / 2000)  #
+        vibrator.off()
+        sleep(delay_time / 2000)
+    else:
+        vibrator.off() 
+、、、
+
+
+
+
+
 
